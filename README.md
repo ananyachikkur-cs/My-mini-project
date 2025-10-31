@@ -1,2 +1,2 @@
 # My-mini-project
-my small contribution
+My small contribution
