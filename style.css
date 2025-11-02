@@ -25,9 +25,9 @@ body {
     
 }
 .input{
-  width:40%;
+  width:90%;
   font-family: Courier, Monaco, monospace;
-  padding:4px;
+  padding:14px;
    outline:none;
   background: rgba(255, 255, 255, 0.2);
   border-color: rgba(255, 255, 255, 0.3);
@@ -42,21 +42,16 @@ button{
     background-color:rgb(61, 165, 234);
     margin:5px;
     box-shadow :oklab(from rgb(169, 169, 238) l a b);
+    width: 400px;
+    
 }
 button:hover{
     background-color: rgb(107, 149, 227);
     cursor: pointer;
     timeline-scope: 0.2s;
 }
-#total{
-    font-weight:bold;
-    font-size:20px;
-    color: rgb(107, 165, 165);
-}
 .total{
     font-size:20px;
     font-weight:bold;
     margin:15px;
 }
-
-    
